@@ -1,34 +1,7 @@
-Project Gutenberg's Van Brussel naar Karema, by Wauters, Alphonse-Jules
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-Title: Van Brussel naar Karema
-       Geschiedenis eener Belgische Kolonie in Midden-Afrika
-
-Author: Wauters, Alphonse-Jules
-
-Translator: Van Cuyk, Frans
-
-Release Date: March 2, 2019 [EBook #57959]
-
-Language: Dutch
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK VAN BRUSSEL NAAR KAREMA ***
+*** START OF THE PROJECT GUTENBERG EBOOK 57959 ***
 
 
 
-
-Produced by Jeroen Hellingman and the Online Distributed
-Proofreading Team at http://www.pgdp.net/ for Project
-Gutenberg (This file was produced from images generously
-made available by The Internet Archive/American Libraries.)
 
 
 
@@ -56,7 +29,7 @@ made available by The Internet Archive/American Libraries.)
 
 
                                 BRUSSEL
-                    BOEKHANDEL VAN J. LEBÈGUE EN Co.
+                    BOEKHANDEL VAN J. LEBÃˆGUE EN Co.
                         46, MAGDALENASTRAAT, 46
 
 
@@ -124,19 +97,19 @@ Nederlanders, Spanjaards en Portugeezen, Duitschers en Franschen;
 men vindt er ook namen tusschen van Italianen, Zweden, Russen,
 Oostenrijkers, Zwitsers, maar van Belgen... geenen enkelen!
 
-Het is zoo erg, dat de heer Goblet d'Alviella, toen hij vóor eenige
+Het is zoo erg, dat de heer Goblet d'Alviella, toen hij vÃ³or eenige
 jaren de vaderlandsche geschiedenis der reizen, ontdekkingen en
 uitwijkingen schreef, zich verplicht zag, zijne verhandeling te
-beginnen met de volgende bekentenis, vol bittere scherts: «Het is
+beginnen met de volgende bekentenis, vol bittere scherts: Â«Het is
 wel eenigszins vernederend, in een werk over de aardrijkskundige
 ontdekkingen van Belgische reizigers, te moeten aantoonen, dat zij
-er nooit eene gedaan hebben.»
+er nooit eene gedaan hebben.Â»
 
 Indien de reis, waarvan dit boekje het doel, den weg en den uitslag
 wil vertellen, uit het oogpunt der eigenlijk gezegde ontdekkingen
 eveneens geene geruchtmakende gevolgen heeft opgeleverd, zij had
 ten minste de verdienste--en die is niet gering--van te bewijzen,
-dat er in België zekeren dag een burger is opgestaan--de eerste van
+dat er in BelgiÃ« zekeren dag een burger is opgestaan--de eerste van
 allen--die zijn land heeft trachten los te rukken uit de schandelijke
 onverschilligheid voor hetgeen buiten zijne enge grenzen gebeurt,
 en dat er ook mannen gevonden werden, die het hart hadden hem te
@@ -164,11 +137,11 @@ eene aardrijkskundige conferentie, waaraan gehouden hadden deel te
 nemen, beroemde reizigers, zooals de heeren: Nachtigal, Schweinfurth,
 Cameron, Rohlfs, Grant, Duveyrier; geleerde aardrijkskundigen, zooals
 de heeren: de Richthofen, de Hochstetter, de Semenon, d'Abbadie;
-politieke beroemdheden, gelijk de heeren Bartle Frère, Emile de
+politieke beroemdheden, gelijk de heeren Bartle FrÃ¨re, Emile de
 Laveleye, Negri, enz.
 
 Deze conferentie, waarbij de zes groote Europeesche mogendheden en
-België vertegenwoordigd waren, had voor doel de bespreking van de zoo
+BelgiÃ« vertegenwoordigd waren, had voor doel de bespreking van de zoo
 buitengewoon belangrijke kwestie van de uitbating en beschaving van
 Afrika, zijnen tegenwoordigen toestand vast te stellen en de uitslagen,
 tot hiertoe bekomen; nauwkeurig te bepalen wat er nog te doen bleef
@@ -179,7 +152,7 @@ te dwarsboomen en af te schaffen.
 
 De bespreking werd gedurende drie dagen voortgezet.
 
-De besluiten en verklaringen, door de vergadering vóor het uiteengaan
+De besluiten en verklaringen, door de vergadering vÃ³or het uiteengaan
 gestemd, vatten het werk samen en dienen er tot programma van.
 
 Ziehier de bijzonderste punten.
@@ -207,7 +180,7 @@ wegen te openen, onmisbaar voor het invoeren der beschaving in het
 binnenland, en dat er langsheen deze banen wetenschappelijke en
 gastvrije standplaatsen zouden worden gevestigd.
 
-Hunne wetenschappelijke zending zou bestaan: in sterre- en weêrkundige
+Hunne wetenschappelijke zending zou bestaan: in sterre- en weÃªrkundige
 waarnemingen; in het aanleggen van verzamelingen van aard-, plant-
 en dierkunde; in het opmaken van de kaart der omstreken; in het
 opstellen van een blad, hetwelk al de gebeurtenissen zou meedeelen,
@@ -249,7 +222,7 @@ DE WEG OP ZANZIBAR
 
 
 Vastgesteld in de maand Juni 1877, was de eerste expeditie van de
-Internationale Afrikaansche Vereeniging gereed om België te verlaten
+Internationale Afrikaansche Vereeniging gereed om BelgiÃ« te verlaten
 in de maand October daaropvolgende.
 
 Zij bestond uit de heeren Crespel, kapitein bij het 2de linieregiment,
@@ -267,7 +240,7 @@ aanbieden, zoo nam deze den weg langs den Atlantischen oceaan.
 Dit is de langste en kostelijkste baan.
 
 Brussel staat in spoedige verbinding met de oostkust van Afrika langs
-den weg op Brindisi; de «malle des Indes» langs het Suezkanaal en de
+den weg op Brindisi; de Â«malle des IndesÂ» langs het Suezkanaal en de
 Roode Zee tot aan Aden; eindelijk de stoombooten van de British India
 Company van deze stad naar Zanzibar. De reis vordert een twintigtal
 dagen en kost ongeveer 2.500 frank per persoon.
@@ -275,11 +248,11 @@ dagen en kost ongeveer 2.500 frank per persoon.
 Engeland heeft zooeven dit verkeer vervolledigd door het leggen van
 een telegrafischen kabel, verbindende, langsheen de kust, zijne
 bezittingen van Zuid-Afrika met Aden en bijgevolg met Europa en
-Indië. De lijn is geopend sedert twee jaar. De depechen van Brussel
+IndiÃ«. De lijn is geopend sedert twee jaar. De depechen van Brussel
 naar Zanzibar zijn op hunne bestemming in drij uren, langs Parijs,
 Marseille, Malta, Suez en Aden. De prijs is 9,35 frank per woord. De
 lijn is ingehuldigd geworden door gelukwenschen, gericht tot koning
-Leopold II door sultan Saïd-Bargash.
+Leopold II door sultan SaÃ¯d-Bargash.
 
 Eene eigenaardigheid: de telegrammen komen dikwijls te Brussel aan
 voor het uur hunner afzending; immers, het is middag te Zanzibar,
@@ -317,7 +290,7 @@ Het sultanaat Zanzibar is een Staat van zeer jongen datum.
 
 In 1856 stierf de Arabische sultan, die sedert een vijftigtal jaren
 onder eenen zelfden schepter hield vereenigd Mascate, op de golf van
-Oman in Azië, en Zanzibar, op de oostkust van Afrika; twee zijner
+Oman in AziÃ«, en Zanzibar, op de oostkust van Afrika; twee zijner
 zonen verdeelden onder elkander zijne Staten: Souhouaini werd sultan
 van Mascate, en Medjid, sultan van Zanzibar.
 
@@ -329,7 +302,7 @@ voorkomen. Zijne heerschappij strekt zich bij name uit over de
 kuststreek en tot in het hart van het vasteland, Maar feitelijk
 loopt zij uit op niets bij de negerstammen van 't binnenland en zelfs
 bij de inboorlingen langsheen de zee; enkel de Arabische centrums,
-zooals Tabora, Oujiji en Nyangoué, erkennen haar.
+zooals Tabora, Oujiji en NyangouÃ©, erkennen haar.
 
 
 
@@ -338,15 +311,15 @@ leger op zijn Europeesch; het wordt gevormd door de jongelingen van
 het land, die er dienst in nemen als vrijwilligers. Deze soldaten
 zijn goed gewapend en hunne roode uniform geeft in 't oog.
 
-«Het moeilijke van de zaak is geweest,» zegde een Belgisch reiziger,
-de heer Ad. Burdo, «deze krijgslieden over te halen om hunne voeten
+Â«Het moeilijke van de zaak is geweest,Â» zegde een Belgisch reiziger,
+de heer Ad. Burdo, Â«deze krijgslieden over te halen om hunne voeten
 van schoeisels te voorzien: zij wilden hunne schoenen wel dragen om
 't even waar, maar aan hunne voeten nooit. Men is er eindelijk in
 geslaagd, dezen weerzin te overwinnen; evenwel zijn de oefeningen
-niet zoodra geëindigd, of de eerste zorg der soldaten is, zich van
+niet zoodra geÃ«indigd, of de eerste zorg der soldaten is, zich van
 hun schoeisel te ontmaken, en dan krijgt men het vreemd schouwspel te
 zien van militairen in groot tenue, die barrevoets huiswaarts trekken,
-hunne laarzen in de hand of aan den loop van hun geweer gehangen.»
+hunne laarzen in de hand of aan den loop van hun geweer gehangen.Â»
 
 
 
@@ -386,10 +359,10 @@ zich aan hunne bezigheden over te leveren.
 
 
 
-«Een der kenmerkende trekken van Zanzibar,» zegde Cambier, «is de
+Â«Een der kenmerkende trekken van Zanzibar,Â» zegde Cambier, Â«is de
 groote vrijheid, welke men er geniet. Alles is er toegelaten.
 
-«Men legt kalkovens aan in volle straat; men breekt zijn huis af
+Â«Men legt kalkovens aan in volle straat; men breekt zijn huis af
 zonder zich er om te bekreunen, of het opgehoopte steengruis het
 verkeer niet zal belemmeren; de buren zoeken eenen anderen doorgang
 zonder de minste opmerking te maken; men werpt water en vuil door het
@@ -397,14 +370,14 @@ venster, en wie beneden is, krijgt het op zijn hoofd; het dragen van
 wapens is er niet verboden, en men ziet er dan ook de Arabische kooplui
 wandelen met een heel wapenmagazijn aan hunnen gordel. Men mag zelfs
 zijnen gebuur dooden; maar dan moet men de boet betalen: voor eenen
-blanke of eenen Araab, 6000 frank, voor eenen neger, slechts 500.»
+blanke of eenen Araab, 6000 frank, voor eenen neger, slechts 500.Â»
 
 
 
 Sedert eenige jaren heeft Zanzibar ten opzichte van den handel een
 aanzienlijk belang verworven. Uit geschiedkundig oogpunt is zij
 bovendien eene plaats van eerste orde geworden. Het is immers daar,
-dat sedert 25 jaar al de groote expeditiën ingericht werden, die,
+dat sedert 25 jaar al de groote expeditiÃ«n ingericht werden, die,
 van de oostkust, naar de groote meren wilden: die van Burton en
 Speke, welke in 1857 op zoek ging naar het Tanganikameer, en degene
 van Speke en Grant, die in 1860 de bronnen van den Nijl ontdekten;
@@ -447,7 +420,7 @@ Te Brussel was de ontsteltenis groot.
 De massa des volks, weinig op de hoogte van de reusachtige
 moeilijkheden der onderneming, gaf zich over aan een zeer levendig
 gevoel van ontmoediging en beschouwde de zaak als verloren. Zij vergat,
-dat er weinig Afrikaansche expeditiën zijn, die hunne martelaars
+dat er weinig Afrikaansche expeditiÃ«n zijn, die hunne martelaars
 niet gehad hebben, en dat de wegen door het duistere vasteland,
 begaan door mannen als Park, Tuckey, Clapperton, Barth, Livingstone,
 Cameron en Stanley, met graven zijn bezoomd.
@@ -485,7 +458,7 @@ M. Wautier, luitenant bij het regiment der carabiniers, had deelgenomen
 aan den veldtocht van Mexiko, waar hij bewezen had, de vereischte
 hoedanigheden te bezitten voor de inrichting en de aanvoering van
 eenen verren tocht. De heer dokter Dutrieux was als geneesheer in
-'t Belgisch leger getreden, hetwelk hij verlaten had om zich te Caïro
+'t Belgisch leger getreden, hetwelk hij verlaten had om zich te CaÃ¯ro
 te gaan vestigen, waar hij sedert vijf jaar verbleef.
 
 
@@ -504,7 +477,7 @@ van de aanzienlijke verliezen, welke de afmatting en de aanvallen
 der tetzavlieg onder de trekdieren teweegbrengen. Cambier bevond
 zich dus in de noodzakelijkheid zijne voorgangers na te volgen, en
 zijne toevlucht te nemen tot dragers voor het vervoer zijner bagage,
-zijner mondbehoeften en van zijn materiëel.
+zijner mondbehoeften en van zijn materiÃ«el.
 
 Maar, vooraleer aan de dragers te denken, die gehuurd worden langs
 de kust en op het laatste oogenblik, heeft het hoofd eener expeditie
@@ -529,8 +502,8 @@ EENE AFRIKAANSCHE KARAVAAN
 
 De eerste stap, dien men te doen heeft bij de aankomst te Zanzibar,
 is zich een lokaal aan te schaffen om de waren te bergen, die men
-voornemens is te koopen, en het materiëel, dat men uit Europa heeft
-meegebracht. Dit zijn: de wapens en munitiën; de natuurkundige tuigen;
+voornemens is te koopen, en het materiÃ«el, dat men uit Europa heeft
+meegebracht. Dit zijn: de wapens en munitiÃ«n; de natuurkundige tuigen;
 het linnen, de kleederen en schoeisels; de tenten en 't beddegoed;
 de artsenijen; de conserven en 't keukengerief; de werktuigen,
 boeken, papier en honderd verschillige artikels, kleine en groote,
@@ -562,7 +535,7 @@ district, met koralen te betalen. Wat deze laatste betreft, in deze
 streek worden de witte vurig verlangd, in gene de zwarte, of de
 roode, of de roze, met uitsluiting van alle andere. In 1858 is Burton
 gedwongen geweest, verscheidene duizenden reien kralen als nutteloos
-weg te werpen; niemand wilde er van, zelfs niet «als geschenk».
+weg te werpen; niemand wilde er van, zelfs niet Â«als geschenkÂ».
 
 Eens de koopwaren aangekocht, zal de reiziger een tiental inpakkers
 huren om de vrachten klaar te maken, die zullen verschillen van 25
@@ -571,7 +544,7 @@ nauwkeurig aanteekening nemen van zijnen inhoud.
 
 Terwijl de lasten gemaakt worden, zorgvuldig in zakken van vlechtwerk
 gewikkeld, zal men het geleide van Zanzibariten aanwerven. Men zal
-zich vóor alles eenen kapitein aanschaffen, een krachtdadigen en
+zich vÃ³or alles eenen kapitein aanschaffen, een krachtdadigen en
 verkleefden hoofdman, die zich doorgaans, tegen commissiegeld, zal
 gelasten met de soldaten of askaris te kiezen. Cambier nam er tachtig
 in dienst, waarover hij zeer tevreden was. Hoewel men hen soldaten
@@ -587,7 +560,7 @@ tolken en knechts, de laatste bijzonder gelast met den dienst van
 kamp en keuken, dan zal ik, dunkt mij, het einde hebben bereikt van
 de opsomming der voorbereidende werkzaamheden, welke te Zanzibar zelf
 moeten verricht worden; en de reiziger zal gereed zijn om zich in te
-schepen, met personeel en bagage, op eenige daoes, om de zeeëngte over
+schepen, met personeel en bagage, op eenige daoes, om de zeeÃ«ngte over
 te steken en aan wal te stappen op Afrika's grond. Daar wacht hem een
 veel ingewikkelder en moeilijker werk: de werving van dragers. Ik ga
 er komen.
@@ -611,7 +584,7 @@ gereed om dienst te nemen als dragers of pagazis.
 
 De groote hinderpaal tegen de snelheid der reizen in dat gedeelte van
 Afrika spruit voort uit den aard van 't vervoer en de afwezigheid
-van muntspeciën. In plaats van een vijffrankstuk of eenen dollar,
+van muntspeciÃ«n. In plaats van een vijffrankstuk of eenen dollar,
 hebt gij vier meters stof noodig (een doti); een kralen halssnoer in
 stede van eenen stuiver; eenen rol latoendraad bij wijze van goudstuk;
 en om die lastige munt te vervoeren hebt gij noch rijtuig, noch kemel,
@@ -631,7 +604,7 @@ bestemd om de man van vertrouwen van den aanvoerder te worden. Deze
 zal hem moeten weten te paaien met kleine geschenken, tusschen vier
 oogen met hem den te volgen weg vaststellen, zoowel als den afstand
 voor elken dag, enz., en eindelijk, hem gedurig en tegen iedereen
-beschermen. In éen woord, gij moet trachten, den kirangosi altoos
+beschermen. In Ã©en woord, gij moet trachten, den kirangosi altoos
 langs uwen kant te hebben in uwe geschillen met de dragers. Deze
 zullen u dan volgen gelijk schapen van Panurge.
 
@@ -649,7 +622,7 @@ verrichten. Hij zal zich dus moeten wenden, ofwel tot eenen Indiaan
 van de streek, wiens specialiteit het is, ofwel tot het opperhoofd
 van het geleide, die, tegen een te bedingen prijs, hem de noodige
 manschappen zal leveren. Men moet zorgen, deze te nemen tusschen
-de Oeanyamoeëzis, welke de boodschappers zijn van dit gedeelte van
+de OeanyamoeÃ«zis, welke de boodschappers zijn van dit gedeelte van
 't vasteland. En bovendien moet men de echte uitkiezen, zachtaardig
 en gedwee, en geene Oeachetas bij voorbeeld, wier woelig karakter en
 boosaardigheid de expeditie weldra zou leeren ondervinden.
@@ -681,19 +654,19 @@ HET VERTREK EN HET DESERTEEREN DER DRAGERS
 Op 28 Juni 1878, te 6 uren 45 minuten 's morgens, verliet de eerste
 expeditie der Internationale Vereeniging het kamp van Chamba Gonera,
 onder het bevel van luitenant Wautier; de trompet werd geblazen
-en het blauwe vaandel met gouden ster ontrold vóor het hoofd der
+en het blauwe vaandel met gouden ster ontrold vÃ³or het hoofd der
 kolom. De heeren Cambier en Dutrieux konden slechts eenige dagen
 nadien Bagamayo verlaten en voegden zich, met de achterblijvers, den
 11den Juli bij de expeditie, welke haar kamp had opgeslagen tusschen
-de twee bergen Pongoué.
+de twee bergen PongouÃ©.
 
 Al de reizigers vermelden de streek, gelegen aan den voet der kegels
-Pongoué, als een prachtig land, eene soort van park met bekoorlijke
+PongouÃ©, als een prachtig land, eene soort van park met bekoorlijke
 valleien en zachthellende hoogten, bekleed met een heerlijken wasdom.
 
 Geplaatst op vijf dagreizen van de kust, op eene reeds verheven hoogte
 (313 meters boven den zeespiegel), op den rechteroever van den Voeami,
-welke tot daar bevaarbaar is, zou de bergvlakte van den Pongoué niet
+welke tot daar bevaarbaar is, zou de bergvlakte van den PongouÃ© niet
 geschikt wezen tot het vestigen eener Europeesche standplaats? Dit
 moet de toekomst ons leeren.
 
@@ -703,11 +676,11 @@ De karavaan, onder het bevel van luitenant Cambier, hervatte haren
 tocht door de hoogten, welke de vallei van den Kingani scheiden
 van degene van den Voeami. Zij had den laatsten reisweg van Stanley
 gevolgd van aan de kust tot aan Rosaka, en, te beginnen van dit dorp,
-toog zij meer naar het noorden dan alle vorige expeditiën. Dit is,
+toog zij meer naar het noorden dan alle vorige expeditiÃ«n. Dit is,
 schijnt het, de beste baan om van Bagamayo naar Mpoeapoea te gaan:
 zij ontwijkt de moerasachtige vlakten der Makata.
 
-Weldra zette men over den Voeami nabij het dorp Kingoué. Hij heeft
+Weldra zette men over den Voeami nabij het dorp KingouÃ©. Hij heeft
 te dier plaatse veertig meters breedte en de overtocht der karavaan
 vergde acht uren en half tijd.
 
@@ -873,7 +846,7 @@ welke hunne vaststelling doet ontstaan, verslinden schromelijk veel
 tijd en vragen een geduld, dat alle beschrijving te boven gaat.
 
 Ziehier hoe gewoonlijk de verhandeling van het hongo gebeurt. In
-het dorp aankomende, moet men vóor alles beginnen, met eenige
+het dorp aankomende, moet men vÃ³or alles beginnen, met eenige
 gebruikelijke geschenken te zenden aan den sultan, zijne vrouw en
 zijnen opzichter. Dat de reiziger zich wel wachte, er te veel of te
 schoone te geven, want dan zullen zijne rijkdommen hoog aangeslagen
@@ -900,8 +873,8 @@ en de aanvoerders der pagazis en askaris bevelen hunne mannen op
 voorhand de grootste voorzichtigheid aan.
 
 Ziehier, volgens Burton, de schilderachtige aanspraak van den kapitein
-zijner askaris: «Maneno! Maneno! (Luistert, luistert) o Blanken, hoor
-mij aan! en gij, kinderen van den Saïd, gij, zonen van Ramji, gij,
+zijner askaris: Â«Maneno! Maneno! (Luistert, luistert) o Blanken, hoor
+mij aan! en gij, kinderen van den SaÃ¯d, gij, zonen van Ramji, gij,
 sombere afstammelingers der duisternissen, let op mijne woorden. De
 reis geraakt aan Oegogo. Opgepast, opgepast! (Hevige gebaren.) Gij
 kent de mannen niet, die er wonen. Zij zijn gevloekt, driemaal
@@ -912,7 +885,7 @@ noch glasparelen. (Aangroeiend rumoer.) Eet niet, drinkt niet met hen;
 liefkoost hunne vrouwen niet. (Dolzinnig geschreeuw). Kirangozi, gij,
 die hen leidt, houd uwe zonen tegen! Veroorloof niet, dat zij in de
 dorpen omzwerven, dat zij zout koopen buiten het kamp, levensmiddelen
-rooven, zich bedrinken in bier of zich nederzetten bij de putten!»
+rooven, zich bedrinken in bier of zich nederzetten bij de putten!Â»
 
 
 
@@ -920,7 +893,7 @@ Het laatste dorp van Oegogo is Mgondoeko. Daar voorzien de pagazis
 zich van mondbehoeften voor tien dagen en bereiden zich om de bittere
 onaangenaamheden van den Mgonda-Mkali (Brandende vlakte) te trotseeren.
 
-Die naam werd haar gegeven vóor veertig, vijftig jaar, door de
+Die naam werd haar gegeven vÃ³or veertig, vijftig jaar, door de
 karavanen, welke twaalf groote marschen en verscheidene tirikezas
 gebruikten om haar te overschrijden. In 1859 kondigde Burton aan,
 dat de slechte faam, welke zij toen genoot, weldra slechts in de
@@ -947,7 +920,7 @@ krachten in evenwicht brengen en rustige dagen voorbereiden, gunstige
 jaargetijden en zekere oogsten.
 
 Ongelukkiglijk heeft de oorlog, door Mirambo, den vermaarden
-negerkoning van Oenyamoeësi, gedurende vijf jaar tegen de Araben
+negerkoning van OenyamoeÃ«si, gedurende vijf jaar tegen de Araben
 gevoerd, in de Mgonda-Mkali de dorheid en verlatenheid teruggebracht,
 en, in stede van de rijkdommen, waar Stanley en Cameron van spreken,
 ontmoette Cambier niet anders meer dan puinhoopen.
@@ -974,8 +947,8 @@ toehoorende aan Mirambo. Hare aankomst werd er begroet door luide
 vreugdekreten vanwege de inwoners.
 
 Cambier ontving er het bezoek der vrouwen, welke beurtelings
-dansen kwamen uitvoeren vóor zijne deur en den lof bezingen van den
-vreemdeling. Dit gebruik is algemeen in al de dorpen van Oenyamoeësi,
+dansen kwamen uitvoeren vÃ³or zijne deur en den lof bezingen van den
+vreemdeling. Dit gebruik is algemeen in al de dorpen van OenyamoeÃ«si,
 en het is de gewoonte, te dezer gelegenheid eene uitdeeling van parels
 te doen.
 
@@ -985,7 +958,7 @@ tweeden volgenden dag, toen hij omtrent den middag de verblijfplaats
 van den Moeami (titel des sultans) naderde, zag hij Mirambo op een
 honderdtal passen van zijn tembe (woning) hem te gemoet komen.
 
-De sultan van Oenyamoeësi is een man van ongeveer vijftig jaar, rijzig
+De sultan van OenyamoeÃ«si is een man van ongeveer vijftig jaar, rijzig
 van gestalte, niet diklijvig, met een schrander uiterlijk. Hij laat
 niet gemakkelijk zijne indrukken waarnemen en vestigt nooit zijnen
 blik op zijnen medespreker.
@@ -1002,13 +975,13 @@ zich altoos op het onverwachts te vertoonen.
 Uit vrees hem elk oogenblik aan het hoofd zijner benden te zien
 aanrukken, verkiezen de sultans der ommelanden de erkenning zijner
 opperheerschappij en betalen hem schatting. Het is aldus, dat hij
-zich sedert lang den bijnaam heeft kunnen toeëigenen van «Mirambo»,
-welke beteekent: «degene, vóor wiens voeten men geschenken nederlegt.»
+zich sedert lang den bijnaam heeft kunnen toeÃ«igenen van Â«MiramboÂ»,
+welke beteekent: Â«degene, vÃ³or wiens voeten men geschenken nederlegt.Â»
 
 Eenvoudig inlandsch opperhoofdje van het district van den Oehioea,
 heeft hij zich aldus door zijnen moed en zijne woelige krachtdadigheid
 eenen naam verworven, even bekend als die van Mtesa, den machtigen
-koning van Oeganda, eenen naam, dagelijks uitgesproken van Nyangoué
+koning van Oeganda, eenen naam, dagelijks uitgesproken van NyangouÃ©
 tot Zanzibar, en die tot onderwerp dient voor de zangen der inlandsche
 barden.
 
@@ -1031,17 +1004,17 @@ van den kapitein, terwijl een der Zanzibariten van dezen dezelfde
 bewerking deed bij Mirambo.
 
 De enkele druppels bloed werden opgevangen op twee versche bladeren
-en onder een weinig boter gekneed. «Indien het eenen uwer gebeurt,
+en onder een weinig boter gekneed. Â«Indien het eenen uwer gebeurt,
 zegde daarop een der helpers, te kort te komen aan de heilige
 broederlijkheid, dan zal hij verscheurd worden door leeuwen, vergiftigd
 door de slang, zijn voedsel zal bitter zijn, zijne vrienden zullen
 hem verlaten, zijn geweer zal stukspringen in zijne hand; kortom,
-alwat slecht is zal hem vervolgen totterdood!»
+alwat slecht is zal hem vervolgen totterdood!Â»
 
 Waarna de twee opperhoofden elkander wederzijds de gewijde bladeren
 boven het hoofd verscheurden. Zij waren broeders en elke daad van
 vijandschap tusschen hen moest noodlottig voor gevolg hebben den dood
-van den meineedige. Zóó wil het volksgeloof dit.
+van den meineedige. ZÃ³Ã³ wil het volksgeloof dit.
 
 Stanley, die insgelijks de broeder van Mirambo is, is teruggekomen op
 het eerste oordeel, hetwelk hij over hem had uitgebracht. De sultan,
@@ -1049,25 +1022,25 @@ dien hij in 1871 bevochten had als bondgenoot der Araben van Tabora,
 nam hem bepaald voor zich in in 1875, toen hij hem ontmoette in
 Oerambo.
 
-«Hij heeft, zegt hij, elk denkbeeld omgeworpen, dat ik had opgevat over
-den gevreesden man, dien ik brandmerkte als bandiet». Wat er van zij,
+Â«Hij heeft, zegt hij, elk denkbeeld omgeworpen, dat ik had opgevat over
+den gevreesden man, dien ik brandmerkte als bandietÂ». Wat er van zij,
 heden nog weet men niet zeker, of Mirambo een te wenschen bondgenoot
 is of een te vreezen tegenstrever. In alle geval, de nabuurschap der
 Europeesche standplaatsen kan niet anders dan een heilzamen invloed
-uitoefenen op den machtigen potentaat van Oenyamoeësi.
+uitoefenen op den machtigen potentaat van OenyamoeÃ«si.
 
 De tegenwoordige hoofdstad van den Moeami ligt ten noordwesten van
 Tabora. Het is een groot vierkant van tweehonderd meters zijde,
 met dikke muren omgeven, waarlangs een honderdtal hutten geschaard
 zijn, bewoond door de voornamen. Die stad werd door haren stichter
-«Thierra-Magazy» geheeten. De Engelsche missionarissen, die er zich
-pas nedergezet hebben, noemen haar ook in hunne brieven «koei-koeroe»,
-wat «hoofdstad» beteekent.
+Â«Thierra-MagazyÂ» geheeten. De Engelsche missionarissen, die er zich
+pas nedergezet hebben, noemen haar ook in hunne brieven Â«koei-koeroeÂ»,
+wat Â«hoofdstadÂ» beteekent.
 
 Zij telt eene bevolking van eenige duizenden inwoners, verspreid over
 verscheidene groote dorpen, gelegen in de omstreken. Het leger, dat het
 groot opperhoofd er in oorlogstijd kan bijeenbrengen, bereikt ongeveer
-3000 man, naar men zegt. Al de sultans van Oenyamoeësi leveren hem
+3000 man, naar men zegt. Al de sultans van OenyamoeÃ«si leveren hem
 een contingent, en degenen, die niet willen of niet kunnen deelnemen
 aan den veldtocht, zenden hem, bij zijnen terugkeer, eene schatting
 in ivoor of slaven.
@@ -1081,7 +1054,7 @@ en de genezing volgde immer snel en volledig.
 
 Terwijl de aanvoerder van de expeditie bij Mirambo uitrust, keeren
 wij op onze stappen terug, naar Mpoeapoea, waar wij de heeren Dutrieux
-en Wautier met de bagage en het materiëel gelaten hebben.
+en Wautier met de bagage en het materiÃ«el gelaten hebben.
 
 
 
@@ -1105,7 +1078,7 @@ op marsch, onder het bevel van den luitenant Wautier.
 Het oproer der pagazis te Mvomero had dus aan de eerste expeditie
 niet alleen eene nogal aanzienlijke som gelds gekost, maar ook een
 verlies van tijd van twee maanden en half. Dit was gelukkiglijk
-niets in vergelijking met de levendige onrust, in België ontstaan
+niets in vergelijking met de levendige onrust, in BelgiÃ« ontstaan
 ten gevolge van een valsch gerucht, door de dagbladen verspreid,
 en volgens hetwelk de Belgische expeditie, aangevallen door een
 inlandschen stam, overmand en uitgeroeid was geworden.
@@ -1128,7 +1101,7 @@ stilblijven. Ik deel, volgens het verslag van den heer dokter Dutrieux,
 den gang der gebeurtenissen beknopt mede.
 
 Benden plunderaars, bijna allen behoorende aan Nyoengoe, machtig
-opperhoofd van het zuiden van Oenymaoeëi, waarbij zich roegas-roegas
+opperhoofd van het zuiden van OenymaoeÃ«i, waarbij zich roegas-roegas
 (struikroovers) gevoegd hadden, legerden in de vlakte ten westen van
 Oegogo en schenen van plan, den weg te versperren aan de karavanen,
 die zich naar Tabora begaven. Zij hadden reeds, schijnt het, die van
@@ -1137,7 +1110,7 @@ die eenigen tijd te voren daar voorbij was getrokken.
 
 Daar daagde de karavaan op, geleid door M. Penrose, en welke die
 van luitenant Wautier eenige dagen voorafging. Tegengehouden door de
-gewapende benden op de boorden van het kleine meer Tchaïa, was zij
+gewapende benden op de boorden van het kleine meer TchaÃ¯a, was zij
 verplicht te strijden. Hare dragers liepen weg, al hare koopwaren
 bleven in de handen der aanvallers en de ongelukkige Penrose werd in
 't gevecht gedood.
@@ -1170,7 +1143,7 @@ moeilijk tot aan het dorp Hekoengoe.
 
 Daar wachtte haar een wreed ongeluk.
 
-In dien kringmarsch rond het meer Tchaïa kwam de dood voor den
+In dien kringmarsch rond het meer TchaÃ¯a kwam de dood voor den
 derden keer de expeditie der Vereeniging bezoeken. Den 7den December
 werd luitenant Wautier door eenen afgang aangetast, die weldra in
 roodeloop ontaardde. Het was de derde maal sedert zijn verblijf
@@ -1209,7 +1182,7 @@ man, wier verbintenis voor 't meerendeel bij dit dorp eindigde. Hij
 wachtte er op nieuws van kapitein Cambier, die, van zijne aankomst
 verwittigd, niet aarzelde hem tegen te gaan, en de ontmoeting der
 twee reizigers, sedert bijna vijf maanden gescheiden, greep plaats
-den zesden Januari 1879 in het dorp Oeyoeï, gelegen nabij Tabora,
+den zesden Januari 1879 in het dorp OeyoeÃ¯, gelegen nabij Tabora,
 een weinig ten noorden.
 
 
@@ -1255,12 +1228,12 @@ internationale Vereeniging er een stapelhuis van koopwaren, bestuurd
 door den heer Becker.
 
 Onze landgenoot zal weldra het gezelschap krijgen van eenen Franschman,
-M. Sergère, die lang Zanzibar bewoond heeft en zich gereedmaakt om
+M. SergÃ¨re, die lang Zanzibar bewoond heeft en zich gereedmaakt om
 in Tabora een handelskantoor op te richten.
 
 In Oenyanyembe zijn de dorpen talrijk en de ontginning is er
 aanzienlijk; de grond, met zorg bewerkt, brengt in overvloed rijst,
-sorgho, maïs, manioc en zoete wortelknol voort; de Araben telen er
+sorgho, maÃ¯s, manioc en zoete wortelknol voort; de Araben telen er
 koren en ajuin; zij hebben er ook de meeste fruitboomen van de kust
 ingevoerd. Men treft er eveneens den katoenboom aan.
 
@@ -1278,7 +1251,7 @@ westen uitstrekken en gedraineerd worden door ontelbare rivieren,
 alsdan overstroomd, afvloeiende naar het meer Tanganika.
 
 Toen de regens begonnen op te houden, op 't einde van April, dacht de
-reiziger er aan, nieuwe dragers in dienst te nemen, om het materiëel
+reiziger er aan, nieuwe dragers in dienst te nemen, om het materiÃ«el
 zijner standplaats tot aan het meer te laten vervoeren, en dan op
 te breken.
 
@@ -1287,7 +1260,7 @@ dienst der Afrikaansche Vereeniging te verlaten en naar Europa terug
 te keeren.
 
 Van de zes reizigers, die aan den tocht hadden deelgenomen, bleef er
-dus éen op zijnen post: drij waren onderweg gevallen als slachtoffers
+dus Ã©en op zijnen post: drij waren onderweg gevallen als slachtoffers
 hunner toewijding; twee hadden zich uit de onderneming teruggetrokken
 om verschillende redenen.
 
@@ -1317,7 +1290,7 @@ het kleine dorp Karema aanwezen, gelegen op den oostelijken oever
 van het meer, ten zuiden van Oejiji.
 
 Hij sloeg dus den weg van 't zuiden in, langs Simba, minder kostelijk
-dan degene van 't westen langs Kaoeëlee, waar de hongo's buitensporig
+dan degene van 't westen langs KaoeÃ«lee, waar de hongo's buitensporig
 zijn.
 
 Het verslag des reizigers, hetwelk de bijzonderheden meedeelt over
@@ -1336,7 +1309,7 @@ eener bende van 300 olifantenjagers.
 Matumala, die vroeger moeilijkheden met Makiaka, sultan van Karema,
 gehad had, was gedurende drie maanden tegen hem in strijd geweest,
 had hem overwonnen en gedood en hem tot opvolger Kangoa gegeven,
-verbannen lid der «oude regeerende familie».
+verbannen lid der Â«oude regeerende familieÂ».
 
 Wijl Matumala, zooals men ziet, de ware vorst van Karema was,
 verzekerde Cambier zich van zijne vriendschap door eenige geschenken,
@@ -1382,7 +1355,7 @@ XII
 DE EERSTE ONDERZOEKERS VAN HET TANGANIKAMEER
 
 
-Wanneer, na de heuglijke zeetochten van Diëgo Cam, Bartholomeus Diaz,
+Wanneer, na de heuglijke zeetochten van DiÃ«go Cam, Bartholomeus Diaz,
 Vasco de Gama, Cabral, enz. de Portugeezen zich in de XVIe eeuw op
 eenige punten van het Afrikaansche kustland vestigden, te Sofala,
 te Mozambika, te Mombas, te Loando, drongen min of meer bepaalde
@@ -1406,8 +1379,8 @@ een dikken mist, in dezen zin, dat de algemeene waterbeschrijving van
 helft van Afrika niet, gelijk het grootste gedeelte der noordelijke
 helft van dit werelddeel, eene aaneenschakeling van min of meer
 uitgestrekte zandwoestijnen was, maar eene moerasachtige streek,
-geheel doorzaaid met meren, zoo groot als zeeën, doorgroefd met
-talrijke rivieren, en van 't éen eind naar 't ander doorsneden van
+geheel doorzaaid met meren, zoo groot als zeeÃ«n, doorgroefd met
+talrijke rivieren, en van 't Ã©en eind naar 't ander doorsneden van
 machtige stroomen, zooals de Nijl, de Congo en de Zambezia.
 
 De enkele pogingen tot verkenning, langsheen de kusten gedaan door
@@ -1421,7 +1394,7 @@ Wereld, de snelle stroomingen der zeestreek in reusachtige watervallen,
 het goudkwarts, door eenige rivieren gekruid, in schatrijke goud-
 en zilvermijnen, de ellendige negerhutten in volkrijke en prachtige
 steden, hunne opperhoofden in machtige monarken, en de grondgebieden
-dezer, in reusachtige rijken, zooals Monemoeëgi en het befaamd
+dezer, in reusachtige rijken, zooals MonemoeÃ«gi en het befaamd
 Monomotapa.
 
 Van dit tijdstip dagteekenen al die verzinsels en fabels, welke
@@ -1455,7 +1428,7 @@ Drie Engelschen, de eerwaarde Livingstone langs den eenen kant,
 en de kapiteins Burton en Speke langs den anderen, laten bijbel en
 degen varen en rukken op, enkel gewapend met den reisstok van den
 voetganger en den sextant van den waarnemer. Zij marscheeren altijd
-door, recht vóor hen uit, met woorden van vrede in den mond en den
+door, recht vÃ³or hen uit, met woorden van vrede in den mond en den
 olijftak in de hand; in naam der wetenschap en der menschheid gaan
 zij het onbekende en de barbaarschheid te lijf... en dadelijk is de
 sluier vaneengescheurd. Eere aan hen, die bij de eersten waren om
@@ -1485,18 +1458,18 @@ November 1871. Hoor Stanley zelf.
 
 
 
-«--Ontplooit de vaandels en laadt de geweren.
+Â«--Ontplooit de vaandels en laadt de geweren.
 
 --Eh! Oeallah! eh! Oellah boeana! antwoorden vurige stemmen.
 
---Eén, twee, drie!...
+--EÃ©n, twee, drie!...
 
 Bij de vijftig geweren knallen. Hun gedonder, gelijk aan dat van
 't kanon, blijft in 't dorp niet zonder uitwerksel.
 
 --Kirangozi, hoog omhoog de banier van den blanken man. Laat in de
 achterhoede het vaandel van Zanzibar waaien. Sluit de rangen en zet de
-losbrandingen voort tot vóór het huis van den ouden moesoengoe. Gij
+losbrandingen voort tot vÃ³Ã³r het huis van den ouden moesoengoe. Gij
 hebt mij dikwijls gezegd, dat gij den visch van Tanganika begont
 te rieken; heden krijg ik er zelf de lucht van. Visch, bier en eene
 lange rust wachten u. Voorwaarts!
@@ -1520,7 +1493,7 @@ van mijn ras te benadeelen.
 Op eens koos ik de partij, welke mij de beste toescheen. Ik
 dreef de menigte uiteen en richtte mij, tusschen eene dubbele haag
 nieuwsgierigen, naar den halven kring Araben, waar de man met grijzen
-baard vóor stond.
+baard vÃ³or stond.
 
 Terwijl ik langzaam voortschreed, bespeurde ik zijne bleekheid en
 zijn afgemat uiterlijk. Hij droeg eene grijze broek, een rood vest
@@ -1546,7 +1519,7 @@ Meteen waren onze hoofden gedekt en lagen onze handen in elkander.
 Ik keerde mij vervolgens naar de Araben, die mij hunne yambo's
 toestuurden en mij door den doctor elk bij zijnen naam werden
 voorgesteld. Daarop, de omstaanders vergetend, zoowel als degenen,
-die mijne gevaren hadden gedeeld, volgde ik Livingstone.»
+die mijne gevaren hadden gedeeld, volgde ik Livingstone.Â»
 
 
 
@@ -1558,7 +1531,7 @@ twijfel de grootste der Afrikareizigers blijven zal.
 
 Het is, dunkt mij, eene der edelste bladzijden uit de geschiedenis
 der menschheid, die, welke de herinnering bevat van den heuglijken
-tocht der trouwe dienaars van den «goeden moesoengo», eerbiedig
+tocht der trouwe dienaars van den Â«goeden moesoengoÂ», eerbiedig
 voortdragend door de Afrikaansche wildernissen het gebalsemde lijk
 van hunnen hooggeachten meester.
 
@@ -1607,7 +1580,7 @@ der Adriatische zee.
 
 Het heeft eene lengte van 609 kilometers, hetgeen, op eenige mijlen
 na, den afstand van Brussel tot Lyon voorstelt, en zijne oppervlakte
-bedraagt weinig minder dan die van België.
+bedraagt weinig minder dan die van BelgiÃ«.
 
 Eene ontzaglijke menigte afvloeiingen brengen er hun water heen:
 meer dan honderd vijf en twintig rivieren, zonder de beken te
@@ -1627,7 +1600,7 @@ bodem te raken.
 
 Als het weder kalm is, is zijne rust merkwaardig. Maar wanneer de wind
 het voortzweept en onstuimig maakt, dan heeft het, zooals alle smalle
-en diep ingesloten zeeën, plotselinge stormen van eene ongeloofelijke
+en diep ingesloten zeeÃ«n, plotselinge stormen van eene ongeloofelijke
 hevigheid. Ook wagen de visschers zich niet gemakkelijk in 't midden
 van het meer. Gewoonlijk volgen zij de kust, om, bij het minste kwaad
 voorteeken, eene wijkplaats te zoeken binnen de menigvuldige inhammen,
@@ -1635,13 +1608,13 @@ die er de lijn van breken.
 
 
 
-De oevers leveren overal den schilderachtigsten aanblik op. «Om,
+De oevers leveren overal den schilderachtigsten aanblik op. Â«Om,
 zegt Cameron, aan al de schoonheid der boorden van het Tanganika te
 gelooven, moet men ze gezien hebben. Het schitterend en afwisselend
 groen van het gebladerte, het lichtrood van den zandsteen der kusten,
 het blauw van 't water, dit alles maakt eene kleurenmengeling uit,
 welke bij de beschrijving schreeuwend schijnt, doch in de werkelijkheid
-eene volmaakte harmonie vertoont.»
+eene volmaakte harmonie vertoont.Â»
 
 De heerlijkste geuren zweven boven een ondoordringbaar woud, waarvan
 de planten eene wonderbare verscheidenheid aanbieden. Hier is 't
@@ -1651,7 +1624,7 @@ en het bevallige, welriekende kruidje-roer-mij-niet, dat onmetelijke
 oppervlakten bedekt.
 
 Verder spreiden zich uit als een waaier over de hellingen der heuvels
-de majestatische mkora, de kostelijke elaïs, wiens gouden vrucht de
+de majestatische mkora, de kostelijke elaÃ¯s, wiens gouden vrucht de
 palmolie schenkt, de msandaroesi, die het kopalhars voortbrengt,
 de takkige tamar, de teek, de moerbezie-vijgeboom en de bevallige
 payaboom met zijne lange bloementrossen. Langsheen de oevers, in alle
@@ -1665,7 +1638,7 @@ pelikanen in hunne vlucht eventjes aangeraakt.
 
 Op verscheidene plaatsen, tusschen het groen gordijn van 't
 kreupelhout, vertoont de reusachtige rotskuip, die het water van
-'t meer bevat, hare ruwe wanden. Te Mpimboeë springt eene landtong
+'t meer bevat, hare ruwe wanden. Te MpimboeÃ« springt eene landtong
 in het Tanganika vooruit, hetwelk zij schijnt te willen afsluiten;
 het is eene reuzenmassa granietblokken, verward dooreengeworpen,
 eene zeer eigenaardige opeenstapeling, die men zou kunnen nemen voor
@@ -1762,50 +1735,50 @@ KAREMA
 De plaats, welke de internationale Afrikaansche Vereeniging kapitein
 Cambier aangewezen had als bijzonder gunstig voor het vestigen eener
 Europeesche standplaats, was het kleine dorp Karema, op de grens
-van Oefipa en Oekaoeëndi. Een en ander dezer landen zijn overgroote
+van Oefipa en OekaoeÃ«ndi. Een en ander dezer landen zijn overgroote
 distrikten, langs de oostkust van Tanganika gelegen, en door de reizen
 van Livingstone, Stanley en Cameron tot hiertoe slechts onvolledig
 bekendgemaakt.
 
-«Het is, zegt Stanley, een bergachtig land met schoone wouden en
+Â«Het is, zegt Stanley, een bergachtig land met schoone wouden en
 een vruchtbaren grond, besproeid door duizenden waterloopen en in 't
-bezit eener rijke fauna en flora. Schoon Oekaoeëndi! roept hij uit,
+bezit eener rijke fauna en flora. Schoon OekaoeÃ«ndi! roept hij uit,
 betooverende streek! waarmee zou ik de wilde bekoorlijkheid uwer
 vrije en vruchtbare natuur kunnen vergelijken?
 
-«Europa heeft niets, dat er bij halen kan. Het is maar in Mingrelië,
-Imerithië of Indië, dat ik die schuimende rivieren gevonden heb,
+Â«Europa heeft niets, dat er bij halen kan. Het is maar in MingreliÃ«,
+ImerithiÃ« of IndiÃ«, dat ik die schuimende rivieren gevonden heb,
 die schilderachtige valleien, die fiere heuvels, die heerschzuchtige
 bergen, die uitgestrekte wouden met indrukwekkende rijen groote
 boomen, wier rechte en naakte zuilen die lange vergezichten vormen,
 welke men hier aantreft.
 
-«En wat kracht, wat pracht van wasdom! De bodem is er zoo vruchtbaar,
+Â«En wat kracht, wat pracht van wasdom! De bodem is er zoo vruchtbaar,
 de natuur zoo verleidend, dat men zich, trots de doodelijke
 uitwasemingen, die er uit opstijgen, aan deze streek hecht, waar een
 beschaafd volk de malaria zou verdrijven en er een land van maken,
-even gezond als rijk aan voortbrengselen.»
+even gezond als rijk aan voortbrengselen.Â»
 
 
 
 Ziehier thans de beschrijving der plaats, zooals Cambier haar vond
 bij zijne aankomst:
 
-«Karema is gelegen aan het zuidelijk uiteinde der vallei van den
+Â«Karema is gelegen aan het zuidelijk uiteinde der vallei van den
 Wandolo, eene kleine rivier, welke van het noorden komt en zich in
-'t meer stort vóor het dorp. Het plein is ongeveer eene mijl breed en
+'t meer stort vÃ³or het dorp. Het plein is ongeveer eene mijl breed en
 begrensd door twee heuvelrijen. Het is volkomen beroofd van boomen;
 dikke rietstengels van vijf tot zes meters hoogte overdekken het
 bijna geheel.
 
-«De hutten van 't dorp zijn halfrond van vorm en gansch in stroo
+Â«De hutten van 't dorp zijn halfrond van vorm en gansch in stroo
 opgetrokken, met een rieten geraamte. Zij staan opeengehoopt ten
 getale van omstreeks honderd vijftig in eenen kring van tachtig meters
 doorsnede, en in geval van brand zou het heele dorp op eenige minuten
 tijds totaal verwoest zijn.
 
-«De bevolking kan geschat worden op tweehonderd vijftig inwoners,
-ellendig gekleed met dierenhuiden en rokken uit schors.»
+Â«De bevolking kan geschat worden op tweehonderd vijftig inwoners,
+ellendig gekleed met dierenhuiden en rokken uit schors.Â»
 
 
 
@@ -1824,7 +1797,7 @@ opgericht. Een twintigtal negers, arbeidend onder de leiding van hun
 opperhoofd, hebben ze in minder dan acht maanden voltooid.
 
 Het geheel vertoont de algemeene schikking der tembee's, dit is te
-zeggen der woningen van Oegogo en Oeniamoeësi, met dit verschil,
+zeggen der woningen van Oegogo en OeniamoeÃ«si, met dit verschil,
 dat het in plaats van vierkant of rechthoekig, zeskantig van vorm is.
 
 Langs de zes zijden eener ruimte, welke zij gansch omsluiten en waarop
@@ -1845,7 +1818,7 @@ van gebouwen, verheft zich het huis der Europeanen, boven omgeven
 van eene veranda, en tegen de hitte der zonnestralen beschut door
 een uitspringend dak, op de wijze der Zwitsersche huisjes.
 
-Voor éen zijner gevels wappert de blauwe vlag met gouden ster van de
+Voor Ã©en zijner gevels wappert de blauwe vlag met gouden ster van de
 internationale Vereeniging.
 
 Overal rond de statie zijn de landbouwwerken begonnen; de grond is
@@ -1859,7 +1832,7 @@ zijn alle besteed geworden aan de inrichting der statie. Van zes
 uur 's morgens af, het gewoon uur van zonnenopgang in die streek,
 stelde hij zich aan 't werk met het twintigtal zwarten, die in
 zijnen dienst waren. Die zwarten waren de zonderlingste metselaars,
-die men zou kunnen uitdenken; niet éen hunner had het minste begrip
+die men zou kunnen uitdenken; niet Ã©en hunner had het minste begrip
 van loodlijn, en wanneer men hen slechts een uur uit het oog verloor,
 liep men groot gevaar, 's avonds het werk te zien instorten, overdag
 met zooveel moeite opgebouwd.
@@ -1884,7 +1857,7 @@ veiligheid bij te dragen.
 
 De avond, te beginnen van vier tot vijf uren, werd over 't algemeen
 aan de jacht besteed. Zooals wij reeds gezegd hebben, is de fauna van
-Oekaoeëndi zeer rijk. Kudden buffels en antilopen, zebers en giraffen,
+OekaoeÃ«ndi zeer rijk. Kudden buffels en antilopen, zebers en giraffen,
 everzwijnen van verschillige soort leveren een smakelijk en sappig
 vleesch op; dit van den zeber vooral wordt door de Europeanen zeer
 gelust, wijl zijne overeenkomst met goed ossenvleesch heel groot
@@ -1917,7 +1890,7 @@ hagedis bij den minsten onraad.
 
 
 De voeding der oeverbewoners van Tanganika bestaat voornamelijk uit
-sorgho en maïs, die, in water gekookt, eene brij vormen, en op 't
+sorgho en maÃ¯s, die, in water gekookt, eene brij vormen, en op 't
 vuur geroosterd, platte koeken. Voor groenten vond Cambier slechts
 zoete wortelknollen, kauwoerden nog flauwer dan onze rapen, en eene
 soort van postelein, dat nogal aangenaam is.
@@ -1928,7 +1901,7 @@ meloenen, artichokken, salaad en radijs.
 
 Het schijnt, dat de spruit vooral buitengewoon gemakkelijk gedijt.
 
-De maïs, de tarwe, de rijst, de Spaansche peper, de katoen, de tabak
+De maÃ¯s, de tarwe, de rijst, de Spaansche peper, de katoen, de tabak
 en de teozint, een allervoedzaamst graangewas voor 't vee, zijn in
 overvloed gezaaid geworden. Het is in April, dat op de oevers van
 't meer de oogst geschiedt.
@@ -1999,7 +1972,7 @@ zijn. Immers zal hij het personeel der standplaats toelaten,
 betrekkingen aan te knoopen met al de volksstammen langs de oevers
 gevestigd; hij zal de onderzoekingstochten vergemakkelijken naar dit
 of dat onbekend punt van de streek; hij zal de briefwisseling met
-de missiën van Oejiji en Mtowa niet weinig bespoedigen. Bij eenen
+de missiÃ«n van Oejiji en Mtowa niet weinig bespoedigen. Bij eenen
 aanval zal hij grooten dienst bewijzen; in een neteligen toestand
 eene veilige schuilplaats aanbieden.
 
@@ -2067,7 +2040,7 @@ groote waarde, worden geleverd door boomen, welke men bijna overal
 ontmoet.
 
 En eindelijk de graangewassen en groenten geven twee en drij
-oogsten per jaar, zóo groot is de voortbrengende kracht van den
+oogsten per jaar, zÃ³o groot is de voortbrengende kracht van den
 grond, van zulke overvloedige vruchtbaarheid is dit aangeslijkt
 terrein. Ziedaar, met de kostelijke soorten timmer- en nijverheidshout,
 en om slechts eenige treffende voorbeelden aan te halen, ziedaar voor
@@ -2075,7 +2048,7 @@ het plantenrijk.
 
 Het dierenrijk levert ivoor, waarin zulke aanzienlijke handel wordt
 gedreven, struisvederen, huiden, was, enz., zonder van al de wilde
-dieren te spreken, de bewoners onzer dierentuinen, menageriën en
+dieren te spreken, de bewoners onzer dierentuinen, menageriÃ«n en
 vluchten.
 
 De rijkdom aan delfstoffen is nog niet te overzien. Nochtans weet men
@@ -2111,7 +2084,7 @@ bron van alle goed: vrede, overvloed, vreugd en voorspoed.
 Stellig zal de dag aanbreken, waarop deze onmetelijke streek, heden
 nauwelijks gekend, en ondanks de hinderpalen, die er de nadering van
 bemoeilijken, tot in hare kleinste hoeken zal overgeleverd worden
-aan de studiën, opzoekingen, nasporingen en ondernemingen van de
+aan de studiÃ«n, opzoekingen, nasporingen en ondernemingen van de
 beschaafde wereld.
 
 Dit loochenen is der menschen werkkracht en vernuft loochenen.
@@ -2127,10 +2100,10 @@ den Europeaan, is de ernstigste dam, dien de natuur den vooruitgang
 in den weg stelt. Maar wil dit zeggen, dat men voor dit bezwaar moet
 terugdeinzen, hoe onoverkomelijk het ook schijne?
 
-Om slechts éen voorbeeld aan te halen, zal ik vragen, of het doodend
+Om slechts Ã©en voorbeeld aan te halen, zal ik vragen, of het doodend
 klimaat van Midden-Amerika, bestendig verblijf van koortsen en
 besmettelijke ziekten, waardoor duizenden menschenlevens sedert de
-ontdekking werden weggemaaid, den heer de Lesseps éen oogenblik heeft
+ontdekking werden weggemaaid, den heer de Lesseps Ã©en oogenblik heeft
 doen aarzelen om in dit afschrikkend midden eene der reusachtigste
 ondernemingen der moderne tijden te beginnen? Of het zijne medewerkers
 belet heeft, hem met geestdrift te volgen, de kapitalen, er met
@@ -2156,14 +2129,14 @@ de exploitatie, want dit werk van langen adem zal zijne verschillige
 phasen beleven, ieder met eigen middelen van uitvoering. Engeland
 heeft dit volmaakt begrepen, en reeds bezit het langs heel den
 Beneden-Niger eene reeks van twaalf tot vijftien factorijen, handels-
-of landbouwstatiën, onder elkander verbonden door eenen wel ingerichten
-dienst van kleine stoomschepen. Het grootste getal dezer statiën
+of landbouwstatiÃ«n, onder elkander verbonden door eenen wel ingerichten
+dienst van kleine stoomschepen. Het grootste getal dezer statiÃ«n
 wordt bestuurd door verstandige, geleerde en eerlijke negers.
 
 
 
 De eerst te maken propaganda is buiten kijf de handelspropaganda,
-en de eerste missiën, welke men moet daarstellen, zijn
+en de eerste missiÃ«n, welke men moet daarstellen, zijn
 handelskantoren. Maar deze kunnen in een nieuw land niet met
 vrucht ingericht worden, dan onder de leiding van wetenschappelijke
 wroeters, de onderzoekingsreizigers. Wetenschap en handel: ziedaar
@@ -2188,13 +2161,13 @@ zoo rechtmatig fier is, haar langdurige krachtsinspanning en groote
 opofferingen gekost hebben. Wat de moeilijkheid uitmaakt van een werk,
 is er ook de grootheid van.
 
-Het zal België alweder doen stijgen in den eerbied der natiën, die
+Het zal BelgiÃ« alweder doen stijgen in den eerbied der natiÃ«n, die
 edelmoedige en krachtdadige hulp, welke het bijbrengt in het werk
 van Afrika. Indien het grootsche plan des konings de ondersteuning
 blijft ontmoeten, die het verdient, mag men volkomen zeker zijn,
 dat het eenmaal vrucht zal dragen.
 
-Hoewel de wetenschappelijke en gastvrije statiën der internationale
+Hoewel de wetenschappelijke en gastvrije statiÃ«n der internationale
 vereeniging hoegenaamd geen handelskarakter dragen, brengen zij als
 vanzelf den landbouw en den koophandel aan, benevens de uitbating der
 rijkdommen van bosch en mijn. Het wetenschappelijk werk is slechts
@@ -2202,9 +2175,9 @@ de inleiding tot handelswerk. Het bijzonder initiatief des konings
 heeft het eerste gedaan; aan het publiek, zich thans het tweede aan
 te trekken.
 
-België bezit de dichtste bevolking ter wereld, en zijn stoffelijk
+BelgiÃ« bezit de dichtste bevolking ter wereld, en zijn stoffelijk
 fortuin is in evenredigheid met zijne natuurlijke voordeelen. Ons
-volk kan er op bogen, tusschen de meest gevorderde natiën van Europa
+volk kan er op bogen, tusschen de meest gevorderde natiÃ«n van Europa
 geteld te worden, en het is met reden fier op zijne verstandelijke
 ontwikkeling en bloeiende nijverheid. Het bezit, voor den uitvoer
 van den overvloed zijner producten, eene der schoonste havens van
@@ -2216,7 +2189,7 @@ post van eer, hebben er zich honderd aangeboden. Het heeft te huis,
 bij der hand, alwat er noodig is om te slagen en de stoutste plannen
 zonder aarzelen aan te vatten.
 
-Dat België dus maar durve!
+Dat BelgiÃ« dus maar durve!
 
 Dat het niet onverschillig blijve voor een vraagpunt, hetwelk op dit
 oogenblik al de voortbrengende landen bezighoudt: het weze indachtig,
@@ -2224,7 +2197,7 @@ hoeveel voorspoed en ware grootheid Portugal, Spanje, Engeland en
 Nederland niet te danken hebben aan de verre ondernemingen hunner
 kinderen, en het lette op den Congo.
 
-Indien België wil, kan het daar ginder, tot zijnen meerderen
+Indien BelgiÃ« wil, kan het daar ginder, tot zijnen meerderen
 roem zoowel als tot zijn meerder voordeel, eene der heerlijkste
 menschverheffende en handelsondernemingen dezer eeuw tot stand brengen.
 
@@ -2266,367 +2239,4 @@ Wie wil ze?
 
 End of Project Gutenberg's Van Brussel naar Karema, by Wauters, Alphonse-Jules
 
-*** END OF THIS PROJECT GUTENBERG EBOOK VAN BRUSSEL NAAR KAREMA ***
-
-***** This file should be named 57959-8.txt or 57959-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/7/9/5/57959/
-
-Produced by Jeroen Hellingman and the Online Distributed
-Proofreading Team at http://www.pgdp.net/ for Project
-Gutenberg (This file was produced from images generously
-made available by The Internet Archive/American Libraries.)
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
-
-
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 57959 ***
